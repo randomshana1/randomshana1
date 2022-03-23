@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @randomshana1
+- 👋 Hi, I’m shana
 - 👀 I’m interested in Web3.0
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on blockchain projects
