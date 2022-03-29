@@ -8,6 +8,7 @@ contract Random ✨ {
   codesIn: ['Solidity', 'Python', 'Java'] ;
   currentlylearning: ["Solidity", "AI & ML", "Trading"] ;
   designing  = ['figma'] ;
+  nfts = ['NITCH747'] ;
 availableForHire: true
 }
 ```
